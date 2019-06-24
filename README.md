@@ -1,5 +1,7 @@
-Árvore AVL
-Mihael Scofield de Azevedo – 20182621
+#Árvore AVL
+
+Implementado por Mihael Scofield de Azevedo,
+Aplicado como trabalho de Algoritmos e Estruturas de Dados 2 (UFPR) por Eduardo Cunha Almeida em 2019-1
 —————————————————————
 Resumo
 O projeto foi dividido em 5 arquivos, sendo 3 cabeçalhos (.h) e 2 arquivos
