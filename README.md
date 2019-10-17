@@ -1,7 +1,7 @@
 # Árvore AVL
 
 Implementado por Mihael Scofield de Azevedo,
-Aplicado como trabalho de Algoritmos e Estruturas de Dados 2 (UFPR) por Eduardo Cunha Almeida em 2019-1
+Aplicado como trabalho de Algoritmos e Estruturas de Dados 3 (UFPR) por Eduardo Cunha Almeida em 2019-1
 
 ## Resumo
 O projeto foi dividido em 5 arquivos, sendo 3 cabeçalhos (.h) e 2 arquivos de implementação (.c). A ideia é que a main trate da leitura e escrita dos arquivos passados enquanto chama o arquivo responsável pela manipulação da AVL.
